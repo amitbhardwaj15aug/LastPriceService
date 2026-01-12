@@ -1,7 +1,9 @@
 # LastPriceService
 Download LastPriceService.zip and Import maven project into your IDE i.e. Eclipse IDE.
 
-PriceRecord.java class has below 3 fields to get LastPrice via consumer.
+Open the below files to see the code flow.
+
+ PriceRecord.java class has below 3 fields to get LastPrice via consumer.
   private final String id;
 	private final Instant asOf;
 	private final Map<String, Object> payload;
