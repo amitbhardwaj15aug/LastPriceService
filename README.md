@@ -1,5 +1,5 @@
 # LastPriceService
-Import maven project into your IDE i.e. Eclipse IDE 
+Download LastPriceService.zip and Import maven project into your IDE i.e. Eclipse IDE 
 PriceRecord.java class has below 3 fields to get LastPrice via consumer.
   private final String id;
 	private final Instant asOf;
